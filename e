@@ -1,3 +1,3 @@
-if game.MaterialService.TextLabel.Text == "KEY" then
+if _G.key == "KEYTEST" then
     print("yes")
 end
