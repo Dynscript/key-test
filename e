@@ -1,3 +1,3 @@
-if key == "STARDENBURDENHARDENBART" then
+if tostring(key) == "STARDENBURDENHARDENBART" then
     print("yes")
 end
